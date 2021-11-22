@@ -1,2 +1,2 @@
 # Calculadora Científica
-![Screenshot](screenshot.png)
+![Screenshot](ScreenShot.png)
