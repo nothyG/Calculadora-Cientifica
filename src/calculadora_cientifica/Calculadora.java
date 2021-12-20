@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GERSON
+ * @author nothyG
  */
 public class Calculadora extends javax.swing.JFrame {
 
